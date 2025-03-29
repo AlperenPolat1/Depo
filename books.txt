@@ -1,0 +1,8 @@
+1997050303,Anna Karenina,Leo Tolstoy,F
+1999080402,Moby-Dick,Herman Melville,T
+2012090275,The Great Gatsby,F. Scott Fitzgerald,F
+2005010098,Emma,Jane Austen,F
+1985110521,Lolita,Vladimir Nabokov,F
+2017060078,Memleket Hikayeleri,Refik Halit Karay,F
+2001100625,Devlet Ana,Kemal Tahir,T
+1990070189,Crime And Punishment,Fyodor Dostoevsky,T
